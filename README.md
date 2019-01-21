@@ -1,8 +1,13 @@
 # Image-Processing
 
-In this notebook we will test some mean-, median- and gaussian-filtering.
+
+Welcome to my Image Processing tutorial that will take you from the basics to the more advanced features!
 
 The link to my explanations and my tutorial video: https://www.youtube.com/watch?v=79c4srGp-Pk&lc=z233vbrp0mveermqu04t1aokg3vc25ayx4cmh3pipq4nrk0h00410
+
+
+
+################################################## IN THE BASICS FOLDER ##################################################
 
 FILTERS: 
 The filtering is done by a simple sliding-window spatial filter 
@@ -18,3 +23,5 @@ Takes the median value of all the pixel values in the window.
 
 GAUSSIAN filter:
 It represents the shape of a Gaussian bell-shaped hump. The weights are decreaseing the further away form the center of the kernel we go.
+
+########################################################################################################################
