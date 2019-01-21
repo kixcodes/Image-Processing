@@ -7,7 +7,7 @@ The link to my explanations and my tutorial video: https://www.youtube.com/watch
 
 
 
-################################################## IN THE BASICS FOLDER ##################################################
+########################### IN THE BASICS FOLDER ###########################
 
 FILTERS: 
 The filtering is done by a simple sliding-window spatial filter 
@@ -24,4 +24,5 @@ Takes the median value of all the pixel values in the window.
 GAUSSIAN filter:
 It represents the shape of a Gaussian bell-shaped hump. The weights are decreaseing the further away form the center of the kernel we go.
 
-########################################################################################################################
+############################################################################
+
